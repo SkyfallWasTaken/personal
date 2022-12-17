@@ -25,5 +25,11 @@
 			href="https://www.reddit.com/user/skyfallda1"
 			target="blank"
 		/>
+		<Icon
+			title="@skyfall@mstdn.social"
+			src="/simpleicons/mastodon.svg"
+			href="https://mstdn.social/@skyfall"
+			target="blank"
+		/>
 	</IconList>
 </div>
