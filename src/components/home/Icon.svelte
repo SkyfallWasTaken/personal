@@ -3,10 +3,12 @@
 
 	export let title: string;
 	export let src: string;
+
 	export let href: string | undefined = undefined;
+	export let target: string = "self"
 </script>
 
-<a {href}>
+<a {href} target={"_" + target}>
 	<img
 		{src}
 		alt={title}
