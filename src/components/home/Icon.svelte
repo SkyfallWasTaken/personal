@@ -3,7 +3,7 @@
 
 	export let title: string;
 	export let src: string;
-	export let href: string | null | undefined;
+	export let href: string | undefined = undefined;
 </script>
 
 <a {href}>

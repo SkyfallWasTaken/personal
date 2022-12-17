@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Home - Skyfall</title>
+</svelte:head>
+
 <script>
 	import Icon from '../components/home/Icon.svelte';
 	import IconList from '../components/home/IconList.svelte';
