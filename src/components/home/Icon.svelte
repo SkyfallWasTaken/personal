@@ -3,6 +3,16 @@
 
 	export let title: string;
 	export let src: string;
+	export let href: string | null | undefined;
 </script>
 
-<img {src} alt={title} use:tippy={{ content: title, placement: 'bottom' }} />
+<a {href}>
+	<img
+		{src}
+		alt={title}
+		use:tippy={{ content: title, placement: 'bottom' }}
+		height="40"
+		width="40"
+		class="text-white"
+	/>
+</a>

@@ -12,4 +12,9 @@
         <Icon title="Minecraft" src="/mojang/mcblock.png" />
         <Icon title="Stardew Valley" src="/concernedape/stardew-valley.webp" />
 	</IconList>
+
+	<IconList categoryName="Contact me">
+        <Icon title="Hypex#1660" src="/simpleicons/discord.svg" /> 
+		<Icon title="u/skyfallda1" src="/simpleicons/reddit.svg" href="https://www.reddit.com/user/skyfallda1"/>
+	</IconList>
 </div>
